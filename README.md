@@ -1,18 +1,12 @@
-# Pata Keja
+# Keja Jiji
 
  A house hunting web application for low and middle income earners in Kenya.
  **Planning in Trello**: [View on Trello](https://trello.com/b/bvaoCOJd/pata-keja)
  **Figma Design**: [View on Figma](https://www.figma.com/proto/ZuAHkWAUptA0TywXtPpxEM/Pata-Keja?node-id=11%3A2&scaling=min-zoom&page-id=0%3A1_)
 
-View live project mvp: [link](https://brianmwevi.github.io/pataKeja/)
+View live project mvp: [link] 
  ## Collaborators
-1. Brian Mwevi - Scrum Master and merge lead
-2. Gift Kemunto - Frontend Developer
-3. Victor Makori - Frontend Developer
-4. Willbeckh Wandaka - Frontend Developer, documentation
-5. Khalid shafi - Frontend Developer
-6. Ryan Muema - Frontend Developer
-7. Stephen Makuol - Frontend Developer
+1.Dickson Chege - frontend developer
 
 ## Technology stacks
 This project is created using: 
@@ -26,11 +20,11 @@ This project is created using:
 - 
  ## Setup
 To setup this project in your local machine.
-- clone this using `git clone https://github.com/BrianMwevi/pataKeja.git`
-- navigate to project directory `cd pataKeja`
+- clone this using 
+- navigate to project directory `cd keja-jiji`
 
 ### Known bugs
-Currently there's no known bugs, but if you catch any open an issue: [here](https://github.com/BrianMwevi/pataKeja/issues/new)
+Currently there's no known bugs, but if you catch any open an issue: [here]
 
 Or if you would like to contribute;
 
@@ -47,7 +41,7 @@ Or if you would like to contribute;
 
 ## License
 MIT 
-&copy; 2022 Patakeja
+&copy; 2025 Keja Jiji
 
 T&C's apply
->💙Patakeja team.
+>💙Keja Jiji team.
