@@ -4,7 +4,7 @@
  **Planning in Trello**: [View on Trello](https://trello.com/b/bvaoCOJd/pata-keja)
  **Figma Design**: [View on Figma](https://www.figma.com/proto/ZuAHkWAUptA0TywXtPpxEM/Pata-Keja?node-id=11%3A2&scaling=min-zoom&page-id=0%3A1_)
 
-View live project mvp: [link] 
+View live project mvp: (https://destindicken-netizen.github.io/test/)
  ## Collaborators
 1.Dickson Chege - frontend developer
 
